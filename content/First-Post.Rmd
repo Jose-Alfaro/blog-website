@@ -6,6 +6,7 @@ output: html_document
 ---
 
 Here is the [review](../RANDOM/Calc 1 Review.pdf).
+Go to [About Me](../about).
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
